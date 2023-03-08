@@ -1,0 +1,37 @@
+#container {
+    background: rgb(233,233,237);
+    background: linear-gradient(328deg, rgba(233,233,237,1) 0%, rgba(236,241,241,1) 73%, rgba(0,113,179,1) 100%);
+    border-radius: 1%;
+    padding: 10px 25px;
+}
+
+#cabecera {
+  box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
+  background: rgba(255, 20, 147, .6);
+  font-weight: bold;
+  font-size: 20px;
+  color:aliceblue;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+#cabecera #tagline {
+  font-weight: normal;
+  font-size: 15px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: deeppink;
+    font-size: 40px;
+}
+  
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+li {
+    line-height: 1.5;
+}
